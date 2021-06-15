@@ -1,0 +1,2 @@
+# Clustering-assignment
+This is a clustering exercise. I had to identify a group of countries that any global NGO should be aiming to mobilize its funds towards. In this case study I had to use a dataset comprising of several macro economic datapoints for each countriees such as Per capita GDP, mortality rate etc. Using these macro points I had to create clusters and identify the cluster of countries which are worst performing in these parameters so that they could be projected as the countries in dire needs of donations. 
